@@ -67,7 +67,7 @@ const SignIn = () => {
           <Input placeholder="password" />
           <Button>SIGN IN</Button>
           <Link>FORGOT PASSWORD?</Link>
-          <Link>CREATE A NEW ACCOUNT</Link>
+          <Link to="/register">CREATE A NEW ACCOUNT</Link>
         </Form>
       </Wrapper>
     </Container>

@@ -13,6 +13,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-paystack": "^3.0.5",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.1",
     "web-vitals": "^1.0.1"
@@ -25,7 +26,7 @@
   },
   "author": "boomshakar",
   "license": "ISC",
-  "proxy": "http://localhost:4000",
+  "proxy": "http://localhost:5050/",
   "eslintConfig": {
     "extends": [
       "react-app",

@@ -78,7 +78,7 @@ const SignUp = () => {
             data in accordance with the <b>PRIVACY POLICY</b>
           </Agreement>
           <Button>CREATE</Button>
-          <Link>HAVE AN ACCOUNT? SIGN IN</Link>
+          <Link to="/login">HAVE AN ACCOUNT? SIGN IN</Link>
         </Form>
       </Wrapper>
     </Container>
